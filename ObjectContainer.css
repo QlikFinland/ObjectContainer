@@ -1,0 +1,35 @@
+/* CSS */
+
+.qv-object-ObjectContainer .bg {
+  width: 99%;
+  height: 99%;
+  /*font-family: "Helvetica Light", Helvetica;*/
+  border-width: 1px;
+}
+
+.qv-object-ObjectContainer .title {
+  font-size: 24px;
+  padding: 5px;
+}
+
+.qv-object-ObjectContainer .subtitle {
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.qv-object-ObjectContainer .q-object {
+  width: 96%; 
+  
+}
+
+.qv-object-ObjectContainer .margin-lr {
+  margin-left: 2%; 
+  margin-right: 2%;
+  width: 96%;
+}
+
+.qv-object-ObjectContainer .margin-tb {
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
