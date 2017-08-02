@@ -10,13 +10,25 @@ Object Container is highly customizable container for both Qlik Sense native obj
 
 The following examples include a filter panel container with native filters and a button extension, a KPI box panel with KPI extensions, and a dashboard panel with native Qlik Sense graphs.
 
+![Alt text](./img/kpiBoxes.jpg?raw=true "Title")
+
+![Alt text](./img/filterPanel.jpg?raw=true "Title")
+
+![Alt text](./img/dashboard.jpg?raw=true "Title")
+
 ## Layout
 
 Layout section includes several options to customize the container.
 
+![Alt text](./img/layout.PNG?raw=true "Title")
+
 ## Container Items
 
 Container Items section includes two kind of items, subtitles and visualizations. Both types can be conditionally shown.
+
+![Alt text](./img/containerItems_subtitle.PNG?raw=true "Title")
+
+![Alt text](./img/containerItems_visu.PNG?raw=true "Title")
 
 ## Author
 
